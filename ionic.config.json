@@ -1,0 +1,7 @@
+{
+  "name": "popover",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
